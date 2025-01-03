@@ -24,6 +24,10 @@ HTML Reports: Provides a detailed breakdown of test execution in a user-friendly
 JSON Reports: Machine-readable output for integration with other tools.
 Extent Reports: Comprehensive and visually appealing reports, including screenshots for failed test cases.
 
+## Learning Reference
+This project is inspired by and built using concepts learned from the Udemy course:
+[Cucumber Tutorial for Beginners](https://www.udemy.com/course/cucumber-tutorial)
+
 ## Running Tests
 
 To execute tests from the command line, use the following command:
